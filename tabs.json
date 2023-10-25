@@ -1,0 +1,7 @@
+
+[
+    {"id": "javascript", "title": "JavaScript", "order": 1, "path": "tabs/JavaScriptC.js"},
+    {"id": "html", "title": "HTML", "order": 0, "path": "tabs/HtmlC.js"},
+    {"id": "css", "title": "CSS", "order": 2, "path": "tabs/CssC.js"},
+    {"id": "react", "title": "React", "order": 1, "path": "tabs/ReactC.js"}
+]
